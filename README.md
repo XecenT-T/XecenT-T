@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XecenT-T
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning cpp and html
+- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me discord:XecenT
 - 😄 Pronouns: he/him
