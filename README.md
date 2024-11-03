@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XecenT-T
-- 🌱 I’m currently learning cpp
+- 🌱 I’m currently learning cpp and machine learning
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me discord:XecenT
 - 😄 Pronouns: he/him
